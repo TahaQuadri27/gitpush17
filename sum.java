@@ -6,4 +6,4 @@ class Sum{
 		c=a+b;
 		System.out.println("sum is "+c);
 	}
-}
+#this is a program to calculate sum using java}
